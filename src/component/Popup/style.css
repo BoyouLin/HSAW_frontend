@@ -1,0 +1,16 @@
+.dialog-overlay {
+    height: 100vh;
+    width: 100vw;
+    z-index: 98;
+    background-color: rgba(0, 0, 0, .7);
+    position: absolute;
+    margin: auto;
+}
+
+.confirm {
+    padding-top: 20px;
+}
+
+.cancel {
+    padding-top: 20px;
+}

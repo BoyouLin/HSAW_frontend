@@ -1,0 +1,26 @@
+.total-pie-four{
+    /* height: 450px;
+    width: 500px; */
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.total-pie-four x-vue-echarts.echarts.piechart1,
+.total-pie-four x-vue-echarts.echarts.piechart2,
+.total-pie-four x-vue-echarts.echarts.piechart3,
+.total-pie-four x-vue-echarts.echarts.piechart4{
+    /* width: 400px;
+    height: 400px; */
+    width: 500px;
+    height: 500px;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* margin: auto 60px; */
+    /* margin-top: 50px; */
+}
+.total-pie-four .total-pie-text{
+    position: absolute;
+    top: 10%;
+}
