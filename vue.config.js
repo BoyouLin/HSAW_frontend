@@ -1,5 +1,3 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'production'
-      ? '/hospitalstaffassessmentwebsit_v1/'
-      : '/'
-  }
+  publicPath: process.env.NODE_ENV === "production" ? "/HSAW_frontend/" : "/",
+};

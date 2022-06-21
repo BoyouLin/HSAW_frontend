@@ -1,6 +1,7 @@
 .DS_Store
 node_modules
 /dist
+VUE專案上傳說明.txt
 
 
 # local env files
